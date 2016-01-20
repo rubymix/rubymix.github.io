@@ -1,0 +1,21 @@
+header {
+  display: block;
+  padding: 5px;
+  color: Gray;
+  border: lightGray 1px solid;
+  text-align: center;
+  font-size: 9pt;
+}
+footer {
+  display: block;
+  padding: 5px;
+  color: Gray;
+  border: lightGray 1px solid;
+  text-align: center;
+  font-size: 9pt;
+}
+section {
+  display: block;
+  padding: 20px;
+  overflow: auto;
+}
